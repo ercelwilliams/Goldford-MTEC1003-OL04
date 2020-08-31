@@ -16,10 +16,8 @@ $ ls<ENTER>
 Copy and paste the output of ls below.
 ----------
 
-
-
-
-
+Applications	Documents	Library		Music		Public
+Desktop		Downloads	Movies		Pictures
 
 ==========
 2.  Type:
@@ -29,10 +27,10 @@ $ ls -l Documents<ENTER>
 Copy and paste the first *two lines* of output below.
 ----------
 
-
-
-
-
+total 1608
+-rw-r--r--@  1 ercelwilliams  staff       0 Nov 26  2019 Icon?
+-rw-r--r--@  1 ercelwilliams  staff  616171 May  5 16:05 Long time audio.mp4
+drwxr-xr-x@ 10 ercelwilliams  staff     320 Aug 26 16:10 Max 8
 
 ==========
 3.  Type:
@@ -42,10 +40,8 @@ $ ls -a Documents
 Copy and paste the first *two lines* of output below.
 ----------
 
-
-
-
-
+.			.localized		Long time audio.mp4
+..			Icon?			Max 8
 
 ==========
 4.  Type:
@@ -55,25 +51,19 @@ $ ls doesnotexist
 Copy and paste the output below.
 ----------
 
-
-
-
-
+ls: doesnotexist: No such file or directory
 
 ==========
 5.  What key do I press to go to the previous command?
 ----------
 
-
-
-
-
+up arrow
 
 ==========
 6.  Name two flags that we used in this exercise.
 ----------
-
-
+-a
+-l
 
 
 
@@ -82,7 +72,7 @@ Copy and paste the output below.
 7.  What was the main command that we used throughout this exercise?
 ----------
 
-
+-ls
 
 
 
@@ -91,7 +81,7 @@ Copy and paste the output below.
 8.  What's one an argument that we've so far passed to a command?
 ----------
 
-
+Documents
 
 
 
@@ -104,7 +94,7 @@ $ foo<ENTER>
 Copy and paste the output below.
 ----------
 
-
+-bash: foo: command not found
 
 
 
@@ -118,7 +108,7 @@ Copy and paste the output below.
 ----------
 
 
-
+-bash: foo: command not found
 
 
 
@@ -130,7 +120,10 @@ $ ls -a Desktop
 Identify the command, flag, argument, and prompt:
 ----------
 
-
+prompt: $
+command: ls
+flag: -a
+argument: desktop
 
 
 
@@ -147,19 +140,13 @@ Follow the instructions line-by-line.
 12. Open a new terminal window. Create a directory called mtec1002. What command did you use?
 ----------
 
-
-
-
-
+mxdir mtec 1003
 
 ==========
 13. Change your directory so that you're in mtec1002. What command did you use?
 ----------
 
-
-
-
-
+cd mtec1003
 
 ==========
 14. Type:
@@ -187,10 +174,7 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
-
-
-
+animals
 
 ==========
 16. Type:
@@ -201,10 +185,7 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
-
-
-
+animals food
 
 ==========
 17. Type:
