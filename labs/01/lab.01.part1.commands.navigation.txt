@@ -160,10 +160,7 @@ If it doesn't ask for help before moving on!
 Copy and paste the output of pwd below.
 ----------
 
-
-
-
-
+/Users/ercelwilliams/mtec1003
 
 ==========
 15. Type:
@@ -196,10 +193,7 @@ $ ls
 Copy and paste the output below.
 ----------
 
-
-
-
-
+animals	foo
 
 ==========
 18. Type:
@@ -210,10 +204,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
-
-
-
+/Users/ercelwilliams/mtec1003/foo/bar/baz/qux
 
 ==========
 19. Type:
@@ -224,10 +215,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
-
-
-
+/Users/ercelwilliams/mtec1003/foo/bar
 
 ==========
 20. Type:
@@ -238,10 +226,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
-
-
-
+/Users/ercelwilliams/mtec1003/foo/bar/baz/qux
 
 ==========
 21. Type:
@@ -252,10 +237,7 @@ $ pwd
 Copy and paste the output below.
 ----------
 
-
-
-
-
+/Users/ercelwilliams/mtec1003
 
 ==========
 22. Type:
@@ -267,10 +249,8 @@ $ ls -l
 Copy and paste the first 3 lines from the output into the space below.
 ----------
 
-
-
-
-
+total 0
+drwxr-xr-x  4 ercelwilliams  staff  128 Sep  1 20:53 foo
 
 ==========
 23. Type:
@@ -281,10 +261,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
-
-
-
+/Users/ercelwilliams
 
 ==========
 24. Type:
@@ -295,10 +272,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
-
-
-
+/Volumes
 
 ==========
 25. Type:
@@ -309,10 +283,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
-
-
-
+/Volumes
 
 ==========
 26. Type:
@@ -323,10 +294,7 @@ $ pwd
 Copy and paste the output into the space below.
 ----------
 
-
-
-
-
+/Users/ercelwilliams/mtec1003
 
 ==========
 27. Type:
@@ -336,19 +304,13 @@ $ hostname
 Copy and paste the output into the space below.
 ----------
 
-
-
-
-
+Ercels-Air
 
 ==========
 28. Make sure you're back in your mtec1002, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
 
-
-
-
-
+pwd
 
 ==========
 29. If you're not in the right directory, type the following command:
@@ -376,10 +338,7 @@ lemon
 Write the one command you used below:
 ----------
 
-
-
-
-
+mkdir -p  lemon/strawberry/orange/pineapple
 
 ==========
 31. Make another directory called aardvark.
@@ -387,19 +346,13 @@ Write the one command you used below:
 Write the command you used to create the directory below:
 ----------
 
-
-
-
-
+mkdir -p aardvark
 
 ==========
 32. List the files and directories in the current directory using the long format.
 
 What is the modified date of the aardvark directory?
 ----------
-
-
-
 
 
 
