@@ -366,10 +366,7 @@ What is the modified date of the aardvark directory?
 What command did you use?
 ----------
 
-
-
-
-
+mkdir -p foo/bar/baz
 
 ==========
 34. Change your directory so that you're in the inner most directory (baz)
@@ -377,10 +374,7 @@ What command did you use?
 What command did you use?
 ----------
 
-
-
-
-
+/
 
 ==========
 35. Change your directory so that you're two directories up (foo)
@@ -388,46 +382,31 @@ What command did you use?
 What command did you use?
 ----------
 
-
-
-
-
+../..
 
 ==========
 36. What command is used to delete empty directories?
 ----------
 
-
-
-
-
+rmdir
 
 ==========
 37. What command is used to print out your current working directory?
 ----------
 
-
-
-
-
+pwd command
 
 ==========
 38. What flag do I pass to ls to print out all files?
 ----------
 
-
-
-
-
+-l
 
 ==========
 39. What's the shortcut for home directory?
 ----------
 
-
-
-
-
+cd
 
 ==========
 40. What's a pathname?
@@ -435,7 +414,7 @@ What command did you use?
 
 
 
-
+A pathname is ageneral form of the name of a file or directory. It specifies a unique location in a file system.
 
 
 ==========
@@ -443,10 +422,11 @@ What command did you use?
 ----------
 
 
-
+A directory is the organiztional unit of files into folders and subfolders
 
 
 
 ==========
 42. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+/Users/ercelwilliams/Downloads
