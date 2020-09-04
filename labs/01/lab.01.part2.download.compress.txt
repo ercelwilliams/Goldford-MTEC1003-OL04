@@ -15,19 +15,19 @@ Feel free to use your workstation to test your answers to the questions that don
 1. Write the command that you would use to change to the root directory.
 ----------
 
-
+root or /
 
 ==========
 2. Write the command that you would use to change to your home directory.
 ----------
 
-
+~
 
 ==========
 3. What's the absolute path to your Desktop directory?
 ----------
 
-
+/Users/ercelwilliams
 
 ==========
 4. If you're in your home directory, how would you create a new directory on your desktop
