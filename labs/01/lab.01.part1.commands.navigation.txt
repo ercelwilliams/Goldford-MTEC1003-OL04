@@ -354,7 +354,10 @@ mkdir -p aardvark
 What is the modified date of the aardvark directory?
 ----------
 
-
+	Downloads	Pictures	mtec		
+Applications	Library		Public		mtec1003
+Desktop		Movies		aardvark	
+Documents	Music		foo
 
 ==========
 33. Make 3 directories nested within each other:
